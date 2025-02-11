@@ -77,27 +77,27 @@ Folder Structure ----
 
 Dependencies ----
 
-chess.js – Chess game rules and validation
+> chess.js – Chess game rules and validation
 
-express – Web server framework
+> express – Web server framework
 
-socket.io – Real-time communication
+> socket.io – Real-time communication
 
-ejs – Templating engine
+> ejs – Templating engine
 
-tailwindcss – Styling
+> tailwindcss – Styling
 
 **************************************
 
 Contributing ----
 
-Fork the repository
+> Fork the repository
 
-Create a new branch: git checkout -b feature-branch
+> Create a new branch: git checkout -b feature-branch
 
-Make your changes
+> Make your changes
 
-Commit and push: git commit -m "Your changes"
+> Commit and push: git commit -m "Your changes"
 
-Open a pull request
+> Open a pull request
 
