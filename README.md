@@ -1,6 +1,4 @@
 
-https://github.com/user-attachments/assets/2ed7cfe0-68af-4f25-a1b0-ee27677bf379
-
 Chess Game
 
 A real-time multiplayer chess game built with Node.js, Express, Socket.io, and chess.js, featuring an interactive UI with drag-and-drop functionality.
